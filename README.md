@@ -3,11 +3,11 @@ In this app meme is shown which are coming from remote API
 # iSearch
 Song Search App using iTunes API.
 
-## Getting Started
+Getting Started
 
 Clone the project and run to get started.
 
-# Screenshots
+## Screenshots
 
 ![](snaps/screenshots_banner.png)
 
