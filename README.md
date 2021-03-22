@@ -7,7 +7,7 @@ Song Search App using iTunes API.
 
 Clone the project and run to get started.
 
-## Screenshots
+# Screenshots
 
 ![](snaps/screenshots_banner.png)
 
